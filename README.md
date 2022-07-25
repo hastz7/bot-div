@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"> 
-    <a href="https://discord.js.org/#/">🎣 Bot de divulgação, sem interval!</a>
+    <a href="https://discord.js.org/#/">💨 Bot de divulgação, sem interval!</a>
 </p>
 <p align="center">
     <br>
@@ -17,6 +17,6 @@
 </p>
 
 <hr>
-    <p align="center"> 🌍 Discord Criador: hastz7 ャ#0494</p>
+    <p align="center"> 🏄‍♂️ Discord Criador: hastz7 ャ#0494</p>
     <p align="center"> <a href="https://discord.gg/Yjbnbm3kHR"> ✔️ Suporte disponivel, clique sobre a frase!<a></p>
 </hr>
